@@ -24,4 +24,8 @@ Here are
 
 6.[MarkDown](https://www.markdownguide.org/cheat-sheet/)
 
-7.[w3schools](https://www.w3schools.com/)
+##  Recommended Resources
+
+1.[W3 schools](https://www.w3schools.com/)
+
+2.[stackoverflow](https://stackoverflow.com/)
