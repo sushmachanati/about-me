@@ -38,4 +38,4 @@ Here are the tools and languages are required to publish a repo with GitHub page
 
   
   
-   ![image](https://github.com/sushmachanati/about-me/blob/master/fav%20(1).JPG)
+   ![](https://github.com/sushmachanati/about-me/blob/master/fav%20(1).JPG)
