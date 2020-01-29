@@ -37,4 +37,4 @@ Here are
 - I'm SUSHMA CHANATI,pursuing Masters in Applied Computer Science-Spring 2020 and this is my favorite image.
 
   
-  ![image](fav (2).JPG)
+  ![image](fav(2).JPG)
