@@ -10,7 +10,7 @@ I want to use this repository to develop the web application and publish it in m
 
 ##  Recommended Tools
 
-Here are 
+Here are the tools and languages are required to publish a repo with GitHub pages.
 
 1.Gitdesktop
 
