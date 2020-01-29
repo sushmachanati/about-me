@@ -34,8 +34,4 @@ Here are
 
 ## Contributors
 
-- SUSHMA CHANATI
-
-- Northwest Missour State University
-
-- Applied Computer Science(spring 2020)
+- I'm SUSHMA CHANATI,pursuing Masters in Applied Computer Science-Spring 2020
