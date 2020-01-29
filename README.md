@@ -38,4 +38,4 @@ Here are the tools and languages are required to publish a repo with GitHub page
 
   
   
-   ![image](https://github.com/sushmachanati/about-me/blob/master/fav%20(1).JPG)
+   ![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__340.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&docid=Ba_eiczVaD9-zM&tbnid=_2JirDBiGzi3lM%3A&vet=10ahUKEwjgtNyGy6jnAhWHWM0KHX2vBK8QMwh5KAAwAA..i&w=546&h=340&bih=625&biw=1366&q=images&ved=0ahUKEwjgtNyGy6jnAhWHWM0KHX2vBK8QMwh5KAAwAA&iact=mrc&uact=8)
