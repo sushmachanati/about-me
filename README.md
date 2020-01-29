@@ -38,4 +38,4 @@ Here are the tools and languages are required to publish a repo with GitHub page
 
   
   
-   ![fav (2)](fav (2).JPG)
+   ![image](fav (2).JPG)
