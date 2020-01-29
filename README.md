@@ -12,17 +12,17 @@ I want to use this repository to develop the web application and publish it in m
 
 Here are the tools and languages are required to publish a repo with GitHub pages.
 
-1.Gitdesktop
+1.Gitdesktop : It is designed to simplify all processes and workflow in your GitHub.
 
-2.TortoiseGit
+2.TortoiseGit: It manages files over time. Files are stored in a local repository.
 
-3.Google Chrome
+3.Google Chrome:It is a free web browser developed, used for accessing web pages on the internet.
 
-4.[Visual Studio](https://visualstudio.microsoft.com/)
+4.[Visual Studio](https://visualstudio.microsoft.com/) :It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 
-5.[Github](https://github.com/)
+5.[Github](https://github.com/) :It is used to work collaboratively with other people around the world, plan your projects and track your work.
 
-6.[MarkDown](https://www.markdownguide.org/cheat-sheet/)
+6.[MarkDown](https://www.markdownguide.org/cheat-sheet/) :It used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor
 
 ##  Recommended Resources
 
