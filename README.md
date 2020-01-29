@@ -31,3 +31,11 @@ Here are
 2.[stackoverflow](https://stackoverflow.com/)
 
 3.[Git](https://try.github.io/)
+
+## Contributors
+
+- SUSHMA CHANATI
+
+- Northwest Missour State University
+
+- Applied Computer Science(spring 2020)
