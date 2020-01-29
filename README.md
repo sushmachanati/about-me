@@ -18,7 +18,7 @@ Here are
 
 3.Google Chrome
 
-4.Visual Studio(https://visualstudio.microsoft.com/)
+4.[Visual Studio](https://visualstudio.microsoft.com/)
 
 5.[Github](https://github.com/)
 
@@ -29,3 +29,5 @@ Here are
 1.[W3 schools](https://www.w3schools.com/)
 
 2.[stackoverflow](https://stackoverflow.com/)
+
+3.[Git](https://try.github.io/)
