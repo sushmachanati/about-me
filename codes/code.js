@@ -1,6 +1,6 @@
 
 const  name = document.querySelector("#name");
-const  email = document.querySelector("#email");
+const  email = document.querySelector("#em");
 const  msg = document.querySelector("#msg");
 const  contact = document.querySelector("#contact");
 const  formbtn = document.querySelector("#formbtn");
@@ -19,3 +19,7 @@ document.addEventListener('click', event => {
       store(event);
      }
     })
+
+
+
+

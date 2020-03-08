@@ -52,21 +52,22 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <input type="text" name="txtName" class="form-control" placeholder="Your Name *" value="" />
+                            <input id = "nam" type="text" name="txtName" class="form-control" placeholder="Your Name *" value="" />
                         </div>
                         
                         <div class="form-group">
-                            <input type="text" name="txtPhone" class="form-control" placeholder="Your Phone Number *"
+                            <input id = "phone" type="text" name="txtPhone" class="form-control" placeholder="Your Phone Number *"
                                 value="" />
                         </div>
-                        <div class="form-group">
-                            <input type="submit" name="btnSubmit" class="btnContact" value="Send Message" />
-                        </div>
+                        
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <textarea name="txtMsg" class="form-control" placeholder="Your Message *"
+                            <textarea name="txtMsg" class="form-control" placeholder="Your Message *" id = "message"
                                 style="width: 80%; height: 60px;"></textarea>
+                        </div>
+                        <div>
+                            <input id = "sub" type="button" value="Send Message" />
                         </div>
                     </div>
                 </div>
@@ -85,5 +86,6 @@
         <i class="fa fa-copyright" style="font-size:2.5em;color:rebeccapurple"> Sushma Chanati</i>
     <br>
 <br></footer>
+<script src="main.js"></script>
     </body>
 </html>

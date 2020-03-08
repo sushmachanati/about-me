@@ -1,5 +1,6 @@
 
-console.log(9387689)
+
+console.log("hi");
 
 const add = (x, y) => {
     return x + y ;
@@ -47,5 +48,21 @@ document.addEventListener('click', event => {
       updateWithImage(event);
      }
 })
+
+
+const  name = document.querySelector("#nam");
+const  phone = document.querySelector("#phone");
+const  message = document.querySelector("#message");
+const  sub = document.querySelector("#sub");
+sub.addEventListener('click',local);
+
+function local(){
+    localStorage.setItem("name",name.value);
+    localStorage.setItem("phone",phone.value);
+    localStorage.setItem("message",message.value);
+    const k = "Hi," + localStorage.getItem("name")+" I'll contact you shortly" ;
+    // console.log(k)
+   alert(k) ;
+}
 
 
