@@ -13,9 +13,8 @@ img {
     position: relative;
     left: 75%;
     top:-2%;
-    
-
   }
+
   #back{
     background-color:grey;
     border-top-right-radius: 7%;
@@ -56,4 +55,11 @@ img {
 }
 .contact-form .form-control{
     border-radius:1rem;
+}
+
+#ajax{
+    cursor: pointer;
+    height: 50px;
+    background-color: rgb(10, 99, 134);
+    color: white;   
 }

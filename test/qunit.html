@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>QUnit JS-GUI-WITH-TESTS</title>
+  <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.9.2.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="nav nav-pills mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../contact.html">Contact us</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../userinputs.html">UserInteraction</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="test/qunit.html">Qunit</a>
+            </li>
+
+
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+
+  <div id="qunit"></div>
+  <div id="qunit-fixture"></div>
+
+  <footer id = "foot">&#9889; Important - the app should be hosted to test.
+    Running locally, try the <a
+      href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en">Web
+      Server for Chrome extension</a>.
+  </footer>
+
+  <!-- qunit code -->
+  <script defer src="https://code.jquery.com/qunit/qunit-2.9.2.js"></script>
+
+  <!-- include source code to be tested -->
+
+
+  <!-- include test code -->
+  <script defer src="main.test.js"></script>
+  <script defer src="../main.js"></script>
+
+</body>
+
+</html>
